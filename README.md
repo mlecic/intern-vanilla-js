@@ -2,18 +2,18 @@
 
 ## Intern Skills
 
-- [ ] Hoisting
-- [ ] Expressions - Statements
+- [x] Hoisting
+- [x] Expressions - Statements
 - [ ] Callback
-- [ ] Logical Operators
-- [ ] Switch
+- [x] Logical Operators
+- [x] Switch
 - [ ] Arrow Functions
 - [ ] Objects
 - [ ] Arrays
-- [ ] Var - Let - Const
+- [x] Var - Let - Const
 - [ ] Functions
 - [ ] DOM manipulation
-- [ ] JSON
+- [x] JSON
 
 ## Junior Tehnician
 
@@ -23,10 +23,10 @@
 - [ ] Immediately Invoked Functions
 - [ ] ES6
 - [ ] Parameter Default Values
-- [ ] String Interpolation
+- [x] String Interpolation
 - [ ] Property shorthand
 - [ ] Destructuring - Rest - Spred
-- [ ] Scopes
+- [x] Scopes
 - [ ] Closure
 - [ ] Async Functions
 - [ ] Pure Functions
