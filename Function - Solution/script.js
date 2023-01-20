@@ -19,5 +19,17 @@ const connectedVideoDevices = () => {
   return videoDevices;
 };
 
-console.log(connectedDevices());
-console.log(connectedVideoDevices());
+// console.log(connectedDevices());
+// console.log(connectedVideoDevices());
+
+const getNameAndPID = () => {
+  const parsed = devices.map(function (device) {
+    return {
+      deviceName: device.displayName,
+      pid: device.pid,
+    };
+  });
+  console.log(parsed);
+};
+
+getNameAndPID();
