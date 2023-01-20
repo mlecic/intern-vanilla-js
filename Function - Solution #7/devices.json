@@ -1,0 +1,531 @@
+[
+  {
+    "battery": {
+      "chargeLevel": 3,
+      "charging": false,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 3
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": false,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Eagle Eye Mini",
+    "featureList": ["bluetoothPairing", "settingsSupported"],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "161755528321",
+    "isConnected": true,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": true,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "1C3",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 4137,
+    "productBuildCode": { "base": "B/C218AFL", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBG02U", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "FFCD0111114AE41D683ED38EA203331AA",
+      "headset": ""
+    },
+    "uniqueId": "FFCD0111114AE41D683ED38EA203331AA",
+    "vid": 134
+  },
+  {
+    "battery": {
+      "chargeLevel": 5,
+      "charging": false,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 5
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": true,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "BT700",
+    "featureList": [
+      "bluetoothPairing",
+      "callcontrol",
+      "dfu",
+      "settingsSupported"
+    ],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "1666",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617528679",
+    "isConnected": true,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": false,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "2E9",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 745,
+    "productBuildCode": { "base": "B/C218AFL", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBG02U", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "FFCD01EAA4AE41D683ED38EA2066A875",
+      "headset": ""
+    },
+    "uniqueId": "FFCD01EAA4AE41D683ED38EA2066A875",
+    "vid": 1151
+  },
+  {
+    "battery": {
+      "chargeLevel": 5,
+      "charging": false,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 5
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": false,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Voyager 6200",
+    "featureList": [
+      "bluetoothPairing",
+      "callcontrol",
+      "dfu",
+      "settingsSupported"
+    ],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "1666",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617523460",
+    "isConnected": true,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": false,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "2B0",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 578,
+    "productBuildCode": { "base": "B/C218AFL", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBG02U", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "FFCD01EAA4AE41D683ED38EA2066A811",
+      "headset": ""
+    },
+    "uniqueId": "FFCD01EAA4AE41D683ED38EA2066A811",
+    "vid": 263
+  },
+  {
+    "battery": {
+      "chargeLevel": 3,
+      "charging": false,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 3
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": true,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Blackwire 5000",
+    "featureList": [
+      "bluetoothPairing",
+      "callcontrol",
+      "dfu",
+      "settingsSupported"
+    ],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1456668679",
+    "isConnected": false,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": false,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "1E1",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 877,
+    "productBuildCode": { "base": "B/C218AFL", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBG02U", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "CFCD01EAA4AE41D622ED38EA20662273",
+      "headset": ""
+    },
+    "uniqueId": "CFCD01EAA4AE41D622ED38EA20662273",
+    "vid": 566
+  },
+  {
+    "battery": {
+      "chargeLevel": 3,
+      "charging": false,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 3
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": false,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Savi 7000",
+    "featureList": [
+      "bluetoothPairing",
+      "callcontrol",
+      "dfu",
+      "settingsSupported"
+    ],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617528111",
+    "isConnected": false,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": false,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "1E1",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 427,
+    "productBuildCode": { "base": "B/C21345FL", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBRRRRG0RU", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "F1CD01EAA4FF47D687ED38EA2066AF77",
+      "headset": ""
+    },
+    "uniqueId": "F1CD01EAA4FF47D687ED38EA2066AF77",
+    "vid": 345
+  },
+  {
+    "battery": {
+      "chargeLevel": 3,
+      "charging": false,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 3
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": false,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Studio R30",
+    "featureList": [
+      "bluetoothPairing",
+      "callcontrol",
+      "dfu",
+      "settingsSupported"
+    ],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617528111",
+    "isConnected": false,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": true,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "1C3",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 4137,
+    "productBuildCode": { "base": "B/C222AFL", "headset": "" },
+    "productSerialNumber": { "base": "S/N23402U", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "FFCD0111114AE41D683ED38EA20333333",
+      "headset": ""
+    },
+    "uniqueId": "FFCD0111114AE41D683ED38EA20333333",
+    "vid": 134
+  },
+  {
+    "battery": {
+      "chargeLevel": 5,
+      "charging": true,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 5
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": true,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Studio USB",
+    "featureList": ["callcontrol", "dfu", "settingsSupported"],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617528122",
+    "isConnected": true,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": true,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "1B3",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 4111,
+    "productBuildCode": { "base": "B/C218AFL", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBG02U", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "FFCD0111114AE4CC683ED38ECC033331C",
+      "headset": ""
+    },
+    "uniqueId": "FFCD0111114AE4CC683ED38ECC033331C",
+    "vid": 1244
+  },
+  {
+    "battery": {
+      "chargeLevel": 5,
+      "charging": true,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 5
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": false,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Voyager Free 60 Series",
+    "featureList": ["callcontrol", "dfu", "settingsSupported"],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617118144",
+    "isConnected": true,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": false,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "1A8",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 4679,
+    "productBuildCode": { "base": "C/C218A11", "headset": "" },
+    "productSerialNumber": { "base": "C/NFBG011", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": {
+      "base": "1FCD0111114AE4CC683ED38ECCAA123",
+      "headset": ""
+    },
+    "uniqueId": "1FCD0111114AE4CC683ED38ECCAA123",
+    "vid": 12214
+  },
+  {
+    "battery": {
+      "chargeLevel": 1,
+      "charging": true,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 1
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": true,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "Voyager Focus",
+    "featureList": ["callcontrol", "dfu", "settingsSupported"],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617118144",
+    "isConnected": false,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": false,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "11C",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 2679,
+    "productBuildCode": { "base": "B/C218AFL", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBG02U", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": { "base": "1CCD0111114AE4C003ED38ECCA0003", "headset": "" },
+    "uniqueId": "1CCD0111114AE4C003ED38ECCA0003",
+    "vid": 1014
+  },
+  {
+    "battery": {
+      "chargeLevel": 2,
+      "charging": true,
+      "docked": false,
+      "isChargeLevelValid": false,
+      "level": 2
+    },
+    "cameraControlsAvailable": false,
+    "canBePrimary": true,
+    "deviceName": "",
+    "deviceType": "",
+    "displayName": "HP 600",
+    "featureList": ["callcontrol", "dfu", "settingsSupported"],
+    "firmwareVersion": {
+      "base": "",
+      "bluetooth": "321",
+      "camera": "",
+      "headset": ""
+    },
+    "id": "1617333211",
+    "isConnected": false,
+    "isDeviceNameCustomizable": false,
+    "isMuted": false,
+    "isPrimary": false,
+    "isVideoDevice": true,
+    "manufacturerInfo": {
+      "additionalHardwareVersion": "",
+      "hardwareVersion": "",
+      "mftInfo": ""
+    },
+    "manufacturerName": "Plantronics",
+    "modelId": "21B",
+    "peripheralInfo": {
+      "hostDeviceId": "",
+      "hostDeviceName": "",
+      "hostDevicePID": -1,
+      "hostDeviceVersion": -1,
+      "isPeripheral": false
+    },
+    "pid": 2374,
+    "productBuildCode": { "base": "B/C218AFF", "headset": "" },
+    "productSerialNumber": { "base": "S/NFBG0FF", "headset": "" },
+    "recordVoiceNotes": "not_supported",
+    "serialNumber": { "base": "1CCD0111114AE4C003ED38EC121212", "headset": "" },
+    "uniqueId": "1CCD0111114AE4C003ED38EC121212",
+    "vid": 1112
+  }
+]
