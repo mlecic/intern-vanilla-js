@@ -4,14 +4,14 @@
 
 - [x] Hoisting
 - [x] Expressions - Statements
-- [ ] Callback
+- [x] Callback
 - [x] Logical Operators
 - [x] Switch
-- [ ] Arrow Functions
+- [x] Arrow Functions
 - [ ] Objects
-- [ ] Arrays
+- [x] Arrays
 - [x] Var - Let - Const
-- [ ] Functions
+- [x] Functions
 - [ ] DOM manipulation
 - [x] JSON
 
@@ -19,13 +19,13 @@
 
 - [ ] Apply - Call - Bind
 - [ ] Promises
-- [ ] Type conversions
-- [ ] Immediately Invoked Functions
+- [x] Type conversions
+- [x] Immediately Invoked Functions
 - [ ] ES6
-- [ ] Parameter Default Values
+- [x] Parameter Default Values
 - [x] String Interpolation
-- [ ] Property shorthand
-- [ ] Destructuring - Rest - Spred
+- [x] Property shorthand
+- [x] Destructuring - Rest - Spred
 - [x] Scopes
 - [ ] Closure
 - [ ] Async Functions
