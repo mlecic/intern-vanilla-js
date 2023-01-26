@@ -69,38 +69,3 @@ function SportCar() {
         `);
   };
 }
-
-const car1 = Object.create(car, {
-  model: { value: "Octavia" },
-  engineType: { value: "1.5 TSI" },
-});
-
-car1.addToStock(21000);
-
-const car2 = Object.assign(car, {
-  model: "Octavia",
-  engineType: "2.0 TDI",
-  color: "Artic White",
-  engine: "Diesel",
-  tyres: "R17",
-  tyresType: "Winter",
-});
-
-car2.addToStock(24999);
-
-let car3 = new SportCar();
-
-car3 = Object.assign(car3, {
-  model: "Macan",
-  engineType: "3.0 Twin Turbo",
-  leather: true,
-  carbonDetails: true,
-  sportWheel: true,
-  sportMode: "yes",
-  color: "True Black",
-  tyres: "R18",
-  tyresType: "Winter",
-  flaps: false,
-});
-
-car3.addToStock(80000);
