@@ -75,7 +75,7 @@ const car1 = Object.create(car, {
   engineType: { value: "1.5 TSI" },
 });
 
-car1.addToStock(21000);
+// car1.addToStock(21000);
 
 const car2 = Object.assign(car, {
   model: "Octavia",
@@ -86,7 +86,7 @@ const car2 = Object.assign(car, {
   tyresType: "Winter",
 });
 
-car2.addToStock(24999);
+// car2.addToStock(24999);
 
 let car3 = new SportCar();
 
@@ -103,4 +103,28 @@ car3 = Object.assign(car3, {
   flaps: false,
 });
 
-car3.addToStock(80000);
+// car3.addToStock(80000);
+
+const printSalesSpecs = (enteredCar) => {
+  Object.defineProperty(enteredCar, "tyres", {
+    enumerable: false,
+  });
+  Object.defineProperty(enteredCar, "tyresType", {
+    enumerable: false,
+  });
+  Object.defineProperty(enteredCar, "addToStock", {
+    enumerable: false,
+  });
+
+  for (let car in enteredCar) {
+    console.log(`${car}: ${enteredCar[car]}`);
+  }
+};
+
+console.log("-----------------------------------------");
+printSalesSpecs(car1);
+console.log("-----------------------------------------");
+printSalesSpecs(car2);
+console.log("-----------------------------------------");
+printSalesSpecs(car3);
+console.log("-----------------------------------------");
