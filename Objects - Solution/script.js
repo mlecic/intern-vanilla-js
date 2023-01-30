@@ -70,7 +70,7 @@ function SportCar() {
   };
 }
 
-const car1 = Object.create(car, {
+const car1 = Object.assign(car, {
   model: { value: "Octavia" },
   engineType: { value: "1.5 TSI" },
 });
@@ -121,10 +121,30 @@ const printSalesSpecs = (enteredCar) => {
   }
 };
 
-console.log("-----------------------------------------");
-printSalesSpecs(car1);
-console.log("-----------------------------------------");
-printSalesSpecs(car2);
-console.log("-----------------------------------------");
-printSalesSpecs(car3);
-console.log("-----------------------------------------");
+// console.log("-----------------------------------------");
+// printSalesSpecs(car1);
+// console.log("-----------------------------------------");
+// printSalesSpecs(car2);
+// console.log("-----------------------------------------");
+// printSalesSpecs(car3);
+// console.log("-----------------------------------------");
+
+function deleteSpec(enteredCar, property) {
+  if (!enteredCar.hasOwnProperty(property)) {
+    console.log("Property does not exist!");
+  }
+
+  delete enteredCar[property];
+}
+
+function removeSpec(enteredCar, property) {
+  if (!enteredCar.hasOwnProperty(property)) {
+    console.log("Property does not exist!");
+  }
+
+  const copyObj = { ...enteredCar };
+
+  delete copyObj[property];
+
+  return copyObj;
+}
